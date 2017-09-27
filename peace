@@ -1,0 +1,7 @@
+print('hello world')
+i = input('do you love peace')
+if i=='yes':
+  print('we also love peace welcome to the club')
+else i=='no':
+  print('FO!!!!!!!!!!!!!)
+  
